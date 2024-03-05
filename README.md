@@ -1,2 +1,1 @@
-# alx-backend-javascript
-For ALX SE Project
+# For ALX SE Project
